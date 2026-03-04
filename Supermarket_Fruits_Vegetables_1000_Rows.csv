@@ -1,0 +1,1001 @@
+Store Group,Transaction Date,Business,Category,Main Category,Sub Category,Item ID,Product,Sale Quantity,Sales Value,Day,Cost,Sales
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0001,Plum,19,1006.24,Sunday,52.96,1006.24
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0002,Mango,1,88.71,Saturday,88.71,88.71
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0003,Mosambi,10,404.3,Sunday,40.43,404.3
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0004,Orange,3,55.11,Saturday,18.37,55.11
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0005,Lettuce,18,1204.38,Tuesday,66.91,1204.38
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0006,Spinach,6,374.04,Thursday,62.34,374.04
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0007,Pineapple,4,270.6,Tuesday,67.65,270.6
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0008,Mango,6,459.42,Friday,76.57,459.42
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0009,Spinach,1,27.78,Friday,27.78,27.78
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0010,Banana,9,165.96,Wednesday,18.44,165.96
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0011,Pumpkin,17,354.79,Saturday,20.87,354.79
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0012,Cauliflower,7,83.3,Thursday,11.9,83.3
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0013,Beetroot,8,682.56,Monday,85.32,682.56
+FreshMart Group,2025-02-16,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0014,Lemon,18,1061.82,Sunday,58.99,1061.82
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0015,Blueberry,1,91.42,Saturday,91.42,91.42
+FreshMart Group,2025-01-21,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0016,Carrot,7,503.86,Tuesday,71.98,503.86
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0017,Carrot,2,169.14,Tuesday,84.57,169.14
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0018,Banana,5,214.1,Monday,42.82,214.1
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0019,Beetroot,1,75.22,Sunday,75.22,75.22
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0020,Bottle Gourd,18,1590.48,Wednesday,88.36,1590.48
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0021,Bottle Gourd,15,227.25,Thursday,15.15,227.25
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0022,Lemon,5,254.3,Sunday,50.86,254.3
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0023,Cabbage,6,440.88,Monday,73.48,440.88
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0024,Peach,5,108.05,Wednesday,21.61,108.05
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0025,Pineapple,11,277.31,Monday,25.21,277.31
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0026,Cauliflower,8,232.8,Monday,29.1,232.8
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0027,Orange,1,53.67,Wednesday,53.67,53.67
+FreshMart Group,2025-01-17,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0028,Beetroot,16,555.68,Friday,34.73,555.68
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0029,Mosambi,9,614.07,Wednesday,68.23,614.07
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0030,Plum,14,1334.2,Thursday,95.3,1334.2
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0031,Mosambi,5,357.85,Thursday,71.57,357.85
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0032,Lemon,12,370.32,Wednesday,30.86,370.32
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0033,Carrot,4,222.36,Friday,55.59,222.36
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0034,Blueberry,9,889.11,Thursday,98.79,889.11
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0035,Peach,6,571.38,Friday,95.23,571.38
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0036,Lettuce,10,958.5,Monday,95.85,958.5
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0037,Orange,15,1119.9,Thursday,74.66,1119.9
+FreshMart Group,2025-02-24,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0038,Potato,19,1603.41,Monday,84.39,1603.41
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0039,Spinach,12,944.4,Sunday,78.7,944.4
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0040,Strawberry,15,225.3,Wednesday,15.02,225.3
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0041,Pumpkin,12,487.2,Sunday,40.6,487.2
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0042,Lemon,17,223.72,Sunday,13.16,223.72
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0043,Strawberry,13,1279.2,Sunday,98.4,1279.2
+FreshMart Group,2025-02-16,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0044,Plum,9,166.41,Sunday,18.49,166.41
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0045,Cauliflower,4,86.84,Friday,21.71,86.84
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0046,Pumpkin,11,623.48,Thursday,56.68,623.48
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0047,Pineapple,4,228.64,Thursday,57.16,228.64
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0048,Banana,5,396.45,Monday,79.29,396.45
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0049,Peach,10,887.4,Saturday,88.74,887.4
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0050,Strawberry,9,803.07,Friday,89.23,803.07
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0051,Pumpkin,3,240.0,Friday,80.0,240.0
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0052,Mango,6,146.58,Saturday,24.43,146.58
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0053,Peach,17,1293.7,Monday,76.1,1293.7
+FreshMart Group,2025-02-24,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0054,Strawberry,18,1397.52,Monday,77.64,1397.52
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0055,Lettuce,20,1042.2,Sunday,52.11,1042.2
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0056,Beetroot,10,234.7,Tuesday,23.47,234.7
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0057,Spinach,3,180.51,Monday,60.17,180.51
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0058,Pineapple,15,570.0,Thursday,38.0,570.0
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0059,Plum,14,433.44,Friday,30.96,433.44
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0060,Spinach,7,621.39,Tuesday,88.77,621.39
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0061,Mango,16,196.48,Sunday,12.28,196.48
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0062,Pumpkin,14,201.18,Saturday,14.37,201.18
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0063,Peach,3,59.61,Sunday,19.87,59.61
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0064,Strawberry,3,93.57,Friday,31.19,93.57
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0065,Orange,12,795.96,Saturday,66.33,795.96
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0066,Cauliflower,17,549.61,Sunday,32.33,549.61
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0067,Carrot,12,651.96,Wednesday,54.33,651.96
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0068,Mosambi,19,1003.01,Saturday,52.79,1003.01
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0069,Mosambi,17,1441.09,Tuesday,84.77,1441.09
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0070,Mosambi,16,1354.88,Tuesday,84.68,1354.88
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0071,Peach,2,182.42,Thursday,91.21,182.42
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0072,Lettuce,7,190.75,Saturday,27.25,190.75
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0073,Bottle Gourd,6,552.84,Friday,92.14,552.84
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0074,Cabbage,5,106.65,Tuesday,21.33,106.65
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0075,Pineapple,19,463.03,Monday,24.37,463.03
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0076,Carrot,17,884.68,Wednesday,52.04,884.68
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0077,Cauliflower,9,506.25,Tuesday,56.25,506.25
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0078,Peach,4,228.64,Wednesday,57.16,228.64
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0079,Blueberry,2,112.12,Wednesday,56.06,112.12
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0080,Blueberry,7,170.24,Friday,24.32,170.24
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0081,Cabbage,13,970.45,Sunday,74.65,970.45
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0082,Beetroot,8,589.44,Sunday,73.68,589.44
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0083,Pineapple,20,618.8,Saturday,30.94,618.8
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0084,Lemon,17,314.33,Sunday,18.49,314.33
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0085,Lemon,20,1765.0,Monday,88.25,1765.0
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0086,Plum,1,20.31,Wednesday,20.31,20.31
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0087,Pumpkin,7,381.78,Sunday,54.54,381.78
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0088,Carrot,14,595.56,Thursday,42.54,595.56
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0089,Potato,20,1280.8,Saturday,64.04,1280.8
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0090,Plum,8,495.92,Thursday,61.99,495.92
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0091,Beetroot,2,182.5,Tuesday,91.25,182.5
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0092,Peach,10,567.2,Tuesday,56.72,567.2
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0093,Banana,7,329.21,Wednesday,47.03,329.21
+FreshMart Group,2025-01-17,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0094,Plum,8,482.64,Friday,60.33,482.64
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0095,Pineapple,12,711.48,Thursday,59.29,711.48
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0096,Potato,7,569.1,Sunday,81.3,569.1
+FreshMart Group,2025-02-16,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0097,Pumpkin,8,781.52,Sunday,97.69,781.52
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0098,Peach,18,707.94,Wednesday,39.33,707.94
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0099,Potato,15,533.25,Tuesday,35.55,533.25
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0100,Pineapple,20,1736.4,Friday,86.82,1736.4
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0101,Strawberry,16,855.68,Wednesday,53.48,855.68
+FreshMart Group,2025-01-21,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0102,Bottle Gourd,20,1175.6,Tuesday,58.78,1175.6
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0103,Peach,14,318.92,Tuesday,22.78,318.92
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0104,Lettuce,9,602.91,Thursday,66.99,602.91
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0105,Bottle Gourd,2,22.42,Wednesday,11.21,22.42
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0106,Bottle Gourd,1,68.8,Friday,68.8,68.8
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0107,Beetroot,1,74.47,Friday,74.47,74.47
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0108,Spinach,9,244.98,Monday,27.22,244.98
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0109,Orange,11,572.33,Monday,52.03,572.33
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0110,Potato,10,729.7,Wednesday,72.97,729.7
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0111,Blueberry,12,884.64,Tuesday,73.72,884.64
+FreshMart Group,2025-01-20,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0112,Plum,3,179.52,Monday,59.84,179.52
+FreshMart Group,2025-01-17,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0113,Carrot,15,521.85,Friday,34.79,521.85
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0114,Lettuce,16,218.08,Friday,13.63,218.08
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0115,Peach,9,258.66,Monday,28.74,258.66
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0116,Potato,9,471.96,Sunday,52.44,471.96
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0117,Strawberry,12,209.64,Wednesday,17.47,209.64
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0118,Cauliflower,18,412.38,Sunday,22.91,412.38
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0119,Cauliflower,6,473.76,Wednesday,78.96,473.76
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0120,Strawberry,20,955.4,Saturday,47.77,955.4
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0121,Lettuce,14,513.24,Sunday,36.66,513.24
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0122,Strawberry,7,438.41,Thursday,62.63,438.41
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0123,Lettuce,10,740.6,Sunday,74.06,740.6
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0124,Cauliflower,5,259.55,Wednesday,51.91,259.55
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0125,Pumpkin,12,965.16,Thursday,80.43,965.16
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0126,Mosambi,2,140.54,Thursday,70.27,140.54
+FreshMart Group,2025-02-16,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0127,Plum,10,126.8,Sunday,12.68,126.8
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0128,Mosambi,13,396.89,Thursday,30.53,396.89
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0129,Blueberry,16,222.72,Sunday,13.92,222.72
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0130,Spinach,6,563.7,Sunday,93.95,563.7
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0131,Blueberry,9,890.28,Wednesday,98.92,890.28
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0132,Strawberry,2,168.14,Friday,84.07,168.14
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0133,Mosambi,18,386.28,Friday,21.46,386.28
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0134,Blueberry,13,207.74,Saturday,15.98,207.74
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0135,Strawberry,6,158.04,Monday,26.34,158.04
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0136,Bottle Gourd,7,528.92,Tuesday,75.56,528.92
+FreshMart Group,2025-02-16,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0137,Spinach,10,525.7,Sunday,52.57,525.7
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0138,Blueberry,12,1019.16,Sunday,84.93,1019.16
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0139,Pumpkin,14,232.26,Friday,16.59,232.26
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0140,Peach,18,1207.44,Friday,67.08,1207.44
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0141,Orange,1,85.42,Saturday,85.42,85.42
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0142,Carrot,8,97.84,Saturday,12.23,97.84
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0143,Plum,12,605.28,Monday,50.44,605.28
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0144,Mango,2,32.28,Friday,16.14,32.28
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0145,Plum,20,972.8,Sunday,48.64,972.8
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0146,Mosambi,20,1325.8,Thursday,66.29,1325.8
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0147,Orange,4,204.44,Thursday,51.11,204.44
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0148,Mango,4,136.56,Wednesday,34.14,136.56
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0149,Peach,3,79.8,Saturday,26.6,79.8
+FreshMart Group,2025-02-24,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0150,Lemon,20,534.2,Monday,26.71,534.2
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0151,Lettuce,14,1101.66,Saturday,78.69,1101.66
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0152,Plum,14,1086.96,Wednesday,77.64,1086.96
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0153,Spinach,19,1164.32,Friday,61.28,1164.32
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0154,Spinach,14,509.6,Wednesday,36.4,509.6
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0155,Pumpkin,20,645.2,Monday,32.26,645.2
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0156,Mosambi,9,241.56,Friday,26.84,241.56
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0157,Strawberry,6,441.18,Monday,73.53,441.18
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0158,Orange,14,249.76,Monday,17.84,249.76
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0159,Orange,16,821.28,Monday,51.33,821.28
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0160,Plum,6,362.4,Friday,60.4,362.4
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0161,Orange,14,993.58,Tuesday,70.97,993.58
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0162,Bottle Gourd,2,75.46,Friday,37.73,75.46
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0163,Pumpkin,7,167.72,Tuesday,23.96,167.72
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0164,Spinach,13,250.12,Friday,19.24,250.12
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0165,Bottle Gourd,15,373.65,Wednesday,24.91,373.65
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0166,Cauliflower,5,417.5,Wednesday,83.5,417.5
+FreshMart Group,2025-02-24,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0167,Potato,5,489.55,Monday,97.91,489.55
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0168,Orange,5,416.8,Saturday,83.36,416.8
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0169,Bottle Gourd,13,1192.23,Sunday,91.71,1192.23
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0170,Bottle Gourd,15,187.5,Monday,12.5,187.5
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0171,Cauliflower,19,1246.59,Tuesday,65.61,1246.59
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0172,Banana,3,185.34,Tuesday,61.78,185.34
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0173,Cabbage,3,85.86,Wednesday,28.62,85.86
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0174,Orange,10,142.3,Wednesday,14.23,142.3
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0175,Cabbage,5,114.55,Thursday,22.91,114.55
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0176,Lettuce,13,978.9,Saturday,75.3,978.9
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0177,Plum,9,247.68,Friday,27.52,247.68
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0178,Bottle Gourd,16,661.76,Wednesday,41.36,661.76
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0179,Blueberry,16,904.48,Wednesday,56.53,904.48
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0180,Blueberry,2,144.64,Wednesday,72.32,144.64
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0181,Spinach,17,845.92,Saturday,49.76,845.92
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0182,Strawberry,16,1545.12,Friday,96.57,1545.12
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0183,Pumpkin,17,919.53,Sunday,54.09,919.53
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0184,Mango,11,891.0,Friday,81.0,891.0
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0185,Cabbage,13,309.92,Thursday,23.84,309.92
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0186,Lemon,3,272.28,Tuesday,90.76,272.28
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0187,Strawberry,5,377.5,Monday,75.5,377.5
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0188,Strawberry,18,1686.78,Friday,93.71,1686.78
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0189,Peach,14,268.38,Wednesday,19.17,268.38
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0190,Spinach,19,1603.98,Monday,84.42,1603.98
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0191,Plum,1,93.84,Saturday,93.84,93.84
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0192,Cabbage,16,1031.36,Sunday,64.46,1031.36
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0193,Carrot,17,1172.66,Thursday,68.98,1172.66
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0194,Lemon,11,911.79,Tuesday,82.89,911.79
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0195,Plum,17,1235.05,Sunday,72.65,1235.05
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0196,Peach,9,684.63,Tuesday,76.07,684.63
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0197,Bottle Gourd,18,1390.86,Tuesday,77.27,1390.86
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0198,Peach,6,85.26,Tuesday,14.21,85.26
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0199,Lettuce,12,358.68,Sunday,29.89,358.68
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0200,Carrot,15,880.95,Sunday,58.73,880.95
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0201,Spinach,8,649.12,Friday,81.14,649.12
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0202,Mango,13,166.14,Wednesday,12.78,166.14
+FreshMart Group,2025-01-17,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0203,Lettuce,19,429.21,Friday,22.59,429.21
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0204,Lemon,3,163.41,Saturday,54.47,163.41
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0205,Peach,18,828.36,Thursday,46.02,828.36
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0206,Plum,1,69.64,Wednesday,69.64,69.64
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0207,Beetroot,12,1152.96,Tuesday,96.08,1152.96
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0208,Mosambi,17,452.03,Sunday,26.59,452.03
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0209,Cabbage,5,292.15,Tuesday,58.43,292.15
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0210,Plum,20,1041.6,Wednesday,52.08,1041.6
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0211,Peach,19,714.59,Wednesday,37.61,714.59
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0212,Strawberry,9,247.86,Sunday,27.54,247.86
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0213,Orange,17,772.82,Thursday,45.46,772.82
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0214,Plum,17,220.66,Thursday,12.98,220.66
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0215,Lettuce,19,1628.3,Tuesday,85.7,1628.3
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0216,Lettuce,8,177.76,Tuesday,22.22,177.76
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0217,Peach,7,325.08,Monday,46.44,325.08
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0218,Lettuce,17,1281.63,Saturday,75.39,1281.63
+FreshMart Group,2025-01-17,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0219,Banana,13,147.68,Friday,11.36,147.68
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0220,Peach,4,261.68,Thursday,65.42,261.68
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0221,Cauliflower,9,466.02,Saturday,51.78,466.02
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0222,Cauliflower,16,1443.68,Saturday,90.23,1443.68
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0223,Lemon,7,513.31,Wednesday,73.33,513.31
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0224,Pineapple,19,1008.52,Friday,53.08,1008.52
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0225,Spinach,15,757.2,Thursday,50.48,757.2
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0226,Spinach,19,1055.83,Friday,55.57,1055.83
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0227,Orange,6,269.94,Saturday,44.99,269.94
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0228,Cabbage,18,260.1,Thursday,14.45,260.1
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0229,Orange,15,1331.7,Wednesday,88.78,1331.7
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0230,Potato,15,374.4,Thursday,24.96,374.4
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0231,Lettuce,1,15.68,Thursday,15.68,15.68
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0232,Spinach,14,548.94,Tuesday,39.21,548.94
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0233,Cabbage,15,464.25,Sunday,30.95,464.25
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0234,Mosambi,11,346.5,Wednesday,31.5,346.5
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0235,Spinach,1,67.15,Thursday,67.15,67.15
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0236,Cabbage,11,920.04,Tuesday,83.64,920.04
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0237,Pumpkin,1,13.0,Thursday,13.0,13.0
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0238,Mango,1,87.07,Thursday,87.07,87.07
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0239,Mango,16,892.16,Thursday,55.76,892.16
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0240,Orange,10,643.8,Friday,64.38,643.8
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0241,Beetroot,8,258.72,Tuesday,32.34,258.72
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0242,Spinach,3,247.8,Saturday,82.6,247.8
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0243,Mosambi,9,822.06,Thursday,91.34,822.06
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0244,Bottle Gourd,17,1401.65,Sunday,82.45,1401.65
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0245,Strawberry,9,518.4,Monday,57.6,518.4
+FreshMart Group,2025-01-04,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0246,Spinach,19,557.65,Saturday,29.35,557.65
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0247,Bottle Gourd,4,350.72,Thursday,87.68,350.72
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0248,Mosambi,15,251.25,Monday,16.75,251.25
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0249,Cabbage,2,41.9,Sunday,20.95,41.9
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0250,Spinach,9,482.76,Friday,53.64,482.76
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0251,Pineapple,15,1173.0,Saturday,78.2,1173.0
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0252,Orange,11,1088.56,Wednesday,98.96,1088.56
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0253,Bottle Gourd,5,190.4,Friday,38.08,190.4
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0254,Plum,7,461.58,Wednesday,65.94,461.58
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0255,Spinach,16,493.28,Tuesday,30.83,493.28
+FreshMart Group,2025-01-04,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0256,Pumpkin,5,385.75,Saturday,77.15,385.75
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0257,Blueberry,11,480.04,Friday,43.64,480.04
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0258,Cauliflower,10,819.2,Friday,81.92,819.2
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0259,Pumpkin,11,175.23,Saturday,15.93,175.23
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0260,Strawberry,19,1756.36,Wednesday,92.44,1756.36
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0261,Mosambi,5,189.25,Monday,37.85,189.25
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0262,Orange,3,97.17,Sunday,32.39,97.17
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0263,Bottle Gourd,5,292.2,Saturday,58.44,292.2
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0264,Spinach,6,116.82,Thursday,19.47,116.82
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0265,Cauliflower,14,858.9,Friday,61.35,858.9
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0266,Mango,4,360.12,Thursday,90.03,360.12
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0267,Mango,4,376.76,Sunday,94.19,376.76
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0268,Pineapple,19,372.02,Saturday,19.58,372.02
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0269,Blueberry,9,824.94,Friday,91.66,824.94
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0270,Carrot,2,91.76,Thursday,45.88,91.76
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0271,Mosambi,4,198.32,Monday,49.58,198.32
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0272,Cabbage,2,124.44,Thursday,62.22,124.44
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0273,Lettuce,3,261.15,Tuesday,87.05,261.15
+FreshMart Group,2025-01-20,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0274,Cauliflower,8,262.64,Monday,32.83,262.64
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0275,Pumpkin,7,326.55,Wednesday,46.65,326.55
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0276,Bottle Gourd,6,383.1,Monday,63.85,383.1
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0277,Bottle Gourd,4,383.52,Thursday,95.88,383.52
+FreshMart Group,2025-01-17,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0278,Bottle Gourd,20,432.0,Friday,21.6,432.0
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0279,Potato,14,922.46,Sunday,65.89,922.46
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0280,Strawberry,5,287.7,Monday,57.54,287.7
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0281,Cabbage,7,406.84,Thursday,58.12,406.84
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0282,Mango,1,51.99,Monday,51.99,51.99
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0283,Lemon,15,1243.65,Friday,82.91,1243.65
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0284,Blueberry,15,774.9,Wednesday,51.66,774.9
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0285,Cauliflower,2,67.28,Wednesday,33.64,67.28
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0286,Bottle Gourd,6,399.3,Saturday,66.55,399.3
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0287,Bottle Gourd,17,344.59,Friday,20.27,344.59
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0288,Spinach,4,201.56,Thursday,50.39,201.56
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0289,Bottle Gourd,20,1975.0,Monday,98.75,1975.0
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0290,Strawberry,3,156.0,Wednesday,52.0,156.0
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0291,Strawberry,14,1372.42,Thursday,98.03,1372.42
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0292,Plum,20,1699.6,Thursday,84.98,1699.6
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0293,Blueberry,11,523.82,Saturday,47.62,523.82
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0294,Lettuce,14,1324.12,Tuesday,94.58,1324.12
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0295,Lemon,5,379.25,Tuesday,75.85,379.25
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0296,Orange,7,539.14,Tuesday,77.02,539.14
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0297,Beetroot,12,522.48,Saturday,43.54,522.48
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0298,Bottle Gourd,18,1287.0,Monday,71.5,1287.0
+FreshMart Group,2025-02-16,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0299,Carrot,16,1362.08,Sunday,85.13,1362.08
+FreshMart Group,2025-01-04,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0300,Pineapple,18,193.86,Saturday,10.77,193.86
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0301,Lettuce,7,308.42,Sunday,44.06,308.42
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0302,Mosambi,20,1208.0,Monday,60.4,1208.0
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0303,Peach,14,1208.34,Tuesday,86.31,1208.34
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0304,Cauliflower,17,1196.8,Monday,70.4,1196.8
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0305,Orange,5,381.4,Friday,76.28,381.4
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0306,Mosambi,1,86.27,Sunday,86.27,86.27
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0307,Blueberry,16,629.76,Wednesday,39.36,629.76
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0308,Lemon,15,292.05,Thursday,19.47,292.05
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0309,Cauliflower,4,187.48,Saturday,46.87,187.48
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0310,Strawberry,15,445.2,Sunday,29.68,445.2
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0311,Cabbage,10,282.9,Tuesday,28.29,282.9
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0312,Potato,11,483.67,Thursday,43.97,483.67
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0313,Blueberry,7,182.98,Saturday,26.14,182.98
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0314,Spinach,13,375.18,Tuesday,28.86,375.18
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0315,Orange,5,142.65,Tuesday,28.53,142.65
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0316,Bottle Gourd,8,472.4,Wednesday,59.05,472.4
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0317,Mango,20,1562.8,Thursday,78.14,1562.8
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0318,Mango,5,334.95,Friday,66.99,334.95
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0319,Cabbage,19,1286.3,Sunday,67.7,1286.3
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0320,Pineapple,1,32.34,Tuesday,32.34,32.34
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0321,Orange,12,127.32,Friday,10.61,127.32
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0322,Orange,11,694.21,Tuesday,63.11,694.21
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0323,Blueberry,4,190.88,Tuesday,47.72,190.88
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0324,Bottle Gourd,15,1028.85,Saturday,68.59,1028.85
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0325,Plum,15,381.75,Monday,25.45,381.75
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0326,Bottle Gourd,14,455.98,Sunday,32.57,455.98
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0327,Beetroot,14,322.0,Thursday,23.0,322.0
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0328,Banana,7,655.76,Thursday,93.68,655.76
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0329,Plum,16,590.4,Friday,36.9,590.4
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0330,Cabbage,13,864.11,Tuesday,66.47,864.11
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0331,Carrot,1,65.98,Saturday,65.98,65.98
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0332,Blueberry,3,62.1,Sunday,20.7,62.1
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0333,Peach,13,165.1,Thursday,12.7,165.1
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0334,Strawberry,11,203.83,Thursday,18.53,203.83
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0335,Lettuce,20,1271.0,Tuesday,63.55,1271.0
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0336,Bottle Gourd,14,373.1,Monday,26.65,373.1
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0337,Carrot,9,102.42,Friday,11.38,102.42
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0338,Blueberry,3,221.91,Thursday,73.97,221.91
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0339,Beetroot,9,469.26,Wednesday,52.14,469.26
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0340,Carrot,1,51.61,Sunday,51.61,51.61
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0341,Strawberry,4,102.8,Tuesday,25.7,102.8
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0342,Blueberry,18,981.54,Friday,54.53,981.54
+FreshMart Group,2025-02-24,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0343,Beetroot,6,488.4,Monday,81.4,488.4
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0344,Lettuce,1,53.06,Monday,53.06,53.06
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0345,Cauliflower,10,478.9,Thursday,47.89,478.9
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0346,Plum,9,730.08,Friday,81.12,730.08
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0347,Bottle Gourd,11,622.6,Saturday,56.6,622.6
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0348,Orange,7,290.08,Tuesday,41.44,290.08
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0349,Plum,11,1010.68,Monday,91.88,1010.68
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0350,Mosambi,19,1553.63,Thursday,81.77,1553.63
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0351,Beetroot,7,390.67,Thursday,55.81,390.67
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0352,Lettuce,5,495.35,Sunday,99.07,495.35
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0353,Pumpkin,12,1083.0,Tuesday,90.25,1083.0
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0354,Plum,8,125.84,Saturday,15.73,125.84
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0355,Strawberry,1,70.08,Tuesday,70.08,70.08
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0356,Pumpkin,8,122.48,Sunday,15.31,122.48
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0357,Orange,10,943.6,Sunday,94.36,943.6
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0358,Pumpkin,7,453.88,Thursday,64.84,453.88
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0359,Carrot,8,125.36,Friday,15.67,125.36
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0360,Banana,20,1907.8,Saturday,95.39,1907.8
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0361,Spinach,10,941.3,Friday,94.13,941.3
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0362,Cauliflower,1,60.2,Wednesday,60.2,60.2
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0363,Strawberry,4,145.6,Monday,36.4,145.6
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0364,Beetroot,20,942.8,Sunday,47.14,942.8
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0365,Strawberry,17,1561.62,Wednesday,91.86,1561.62
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0366,Cabbage,9,366.03,Tuesday,40.67,366.03
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0367,Beetroot,17,695.81,Monday,40.93,695.81
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0368,Strawberry,13,332.93,Wednesday,25.61,332.93
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0369,Blueberry,18,1031.58,Saturday,57.31,1031.58
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0370,Carrot,5,218.4,Thursday,43.68,218.4
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0371,Cabbage,11,445.5,Thursday,40.5,445.5
+FreshMart Group,2025-01-20,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0372,Mango,3,191.49,Monday,63.83,191.49
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0373,Strawberry,9,849.51,Wednesday,94.39,849.51
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0374,Cauliflower,6,354.84,Friday,59.14,354.84
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0375,Strawberry,5,282.0,Monday,56.4,282.0
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0376,Blueberry,19,699.01,Friday,36.79,699.01
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0377,Pumpkin,17,755.65,Tuesday,44.45,755.65
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0378,Spinach,18,1162.26,Tuesday,64.57,1162.26
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0379,Plum,8,363.92,Thursday,45.49,363.92
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0380,Mosambi,14,1121.82,Thursday,80.13,1121.82
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0381,Beetroot,9,306.81,Friday,34.09,306.81
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0382,Banana,11,475.75,Wednesday,43.25,475.75
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0383,Mango,18,655.02,Tuesday,36.39,655.02
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0384,Banana,4,313.96,Sunday,78.49,313.96
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0385,Blueberry,10,636.8,Saturday,63.68,636.8
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0386,Blueberry,2,168.68,Thursday,84.34,168.68
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0387,Lettuce,3,71.67,Friday,23.89,71.67
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0388,Lemon,18,421.02,Tuesday,23.39,421.02
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0389,Cabbage,5,229.75,Saturday,45.95,229.75
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0390,Blueberry,1,83.97,Friday,83.97,83.97
+FreshMart Group,2025-01-20,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0391,Pumpkin,9,775.98,Monday,86.22,775.98
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0392,Cabbage,20,607.8,Tuesday,30.39,607.8
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0393,Pumpkin,19,1751.23,Monday,92.17,1751.23
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0394,Peach,16,835.84,Sunday,52.24,835.84
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0395,Cabbage,12,695.52,Tuesday,57.96,695.52
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0396,Lettuce,15,656.25,Monday,43.75,656.25
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0397,Peach,9,384.75,Monday,42.75,384.75
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0398,Mango,3,292.62,Friday,97.54,292.62
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0399,Spinach,7,654.08,Wednesday,93.44,654.08
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0400,Cabbage,10,466.4,Sunday,46.64,466.4
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0401,Bottle Gourd,19,1593.72,Wednesday,83.88,1593.72
+FreshMart Group,2025-02-16,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0402,Banana,17,1347.59,Sunday,79.27,1347.59
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0403,Beetroot,19,798.57,Monday,42.03,798.57
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0404,Beetroot,10,119.0,Monday,11.9,119.0
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0405,Cauliflower,16,514.4,Saturday,32.15,514.4
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0406,Peach,20,1148.0,Saturday,57.4,1148.0
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0407,Spinach,14,916.3,Thursday,65.45,916.3
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0408,Blueberry,7,696.22,Friday,99.46,696.22
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0409,Plum,18,1128.24,Thursday,62.68,1128.24
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0410,Cauliflower,11,445.61,Tuesday,40.51,445.61
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0411,Cauliflower,14,666.54,Monday,47.61,666.54
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0412,Mango,4,178.72,Friday,44.68,178.72
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0413,Pumpkin,8,126.72,Wednesday,15.84,126.72
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0414,Banana,16,1156.8,Thursday,72.3,1156.8
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0415,Potato,18,1362.06,Monday,75.67,1362.06
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0416,Blueberry,20,1019.6,Monday,50.98,1019.6
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0417,Carrot,2,176.0,Saturday,88.0,176.0
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0418,Lettuce,5,294.25,Monday,58.85,294.25
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0419,Plum,18,1187.64,Wednesday,65.98,1187.64
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0420,Mosambi,18,1112.76,Thursday,61.82,1112.76
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0421,Peach,7,579.18,Saturday,82.74,579.18
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0422,Lettuce,2,69.56,Saturday,34.78,69.56
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0423,Banana,9,409.5,Saturday,45.5,409.5
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0424,Peach,2,83.48,Wednesday,41.74,83.48
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0425,Blueberry,17,839.46,Friday,49.38,839.46
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0426,Peach,2,59.46,Tuesday,29.73,59.46
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0427,Lemon,15,1157.4,Monday,77.16,1157.4
+FreshMart Group,2025-01-21,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0428,Lemon,17,1034.96,Tuesday,60.88,1034.96
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0429,Cabbage,10,679.0,Friday,67.9,679.0
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0430,Pumpkin,19,205.01,Thursday,10.79,205.01
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0431,Mosambi,13,975.52,Monday,75.04,975.52
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0432,Spinach,3,248.25,Wednesday,82.75,248.25
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0433,Plum,10,937.0,Friday,93.7,937.0
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0434,Cabbage,5,223.1,Thursday,44.62,223.1
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0435,Beetroot,5,99.25,Tuesday,19.85,99.25
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0436,Bottle Gourd,9,366.21,Saturday,40.69,366.21
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0437,Potato,16,890.72,Sunday,55.67,890.72
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0438,Plum,15,1369.95,Saturday,91.33,1369.95
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0439,Pumpkin,20,1359.0,Friday,67.95,1359.0
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0440,Mosambi,20,874.0,Thursday,43.7,874.0
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0441,Strawberry,5,249.5,Wednesday,49.9,249.5
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0442,Strawberry,18,1564.56,Tuesday,86.92,1564.56
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0443,Pineapple,14,1090.88,Friday,77.92,1090.88
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0444,Orange,4,49.52,Wednesday,12.38,49.52
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0445,Blueberry,13,346.32,Wednesday,26.64,346.32
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0446,Cabbage,17,1655.12,Friday,97.36,1655.12
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0447,Pumpkin,15,710.55,Wednesday,47.37,710.55
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0448,Pumpkin,10,463.2,Sunday,46.32,463.2
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0449,Blueberry,17,244.63,Monday,14.39,244.63
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0450,Bottle Gourd,6,81.78,Friday,13.63,81.78
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0451,Cauliflower,15,393.45,Monday,26.23,393.45
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0452,Plum,19,723.14,Tuesday,38.06,723.14
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0453,Spinach,1,36.79,Friday,36.79,36.79
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0454,Pumpkin,17,1085.28,Thursday,63.84,1085.28
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0455,Peach,5,422.0,Saturday,84.4,422.0
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0456,Orange,6,551.22,Wednesday,91.87,551.22
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0457,Orange,2,47.82,Wednesday,23.91,47.82
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0458,Pineapple,13,964.73,Sunday,74.21,964.73
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0459,Lettuce,8,720.08,Thursday,90.01,720.08
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0460,Lemon,10,182.6,Saturday,18.26,182.6
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0461,Orange,14,948.5,Thursday,67.75,948.5
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0462,Spinach,2,184.66,Wednesday,92.33,184.66
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0463,Beetroot,15,1049.1,Wednesday,69.94,1049.1
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0464,Cauliflower,4,131.04,Saturday,32.76,131.04
+FreshMart Group,2025-01-21,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0465,Spinach,3,122.91,Tuesday,40.97,122.91
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0466,Bottle Gourd,10,925.9,Tuesday,92.59,925.9
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0467,Strawberry,15,637.2,Friday,42.48,637.2
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0468,Pumpkin,9,92.79,Thursday,10.31,92.79
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0469,Strawberry,15,804.75,Sunday,53.65,804.75
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0470,Strawberry,20,1867.0,Wednesday,93.35,1867.0
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0471,Strawberry,13,259.09,Thursday,19.93,259.09
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0472,Spinach,20,1152.2,Thursday,57.61,1152.2
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0473,Spinach,20,471.2,Saturday,23.56,471.2
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0474,Lettuce,6,405.0,Monday,67.5,405.0
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0475,Peach,20,1599.8,Tuesday,79.99,1599.8
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0476,Banana,5,475.3,Thursday,95.06,475.3
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0477,Pineapple,15,286.35,Saturday,19.09,286.35
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0478,Plum,11,732.49,Tuesday,66.59,732.49
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0479,Pineapple,19,731.31,Sunday,38.49,731.31
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0480,Cabbage,17,1511.13,Friday,88.89,1511.13
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0481,Strawberry,17,678.98,Wednesday,39.94,678.98
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0482,Pineapple,16,1215.2,Saturday,75.95,1215.2
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0483,Plum,13,995.93,Thursday,76.61,995.93
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0484,Plum,3,292.53,Wednesday,97.51,292.53
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0485,Bottle Gourd,19,1165.84,Wednesday,61.36,1165.84
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0486,Beetroot,7,160.02,Wednesday,22.86,160.02
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0487,Orange,20,1003.4,Wednesday,50.17,1003.4
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0488,Blueberry,14,513.38,Thursday,36.67,513.38
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0489,Cauliflower,8,385.36,Wednesday,48.17,385.36
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0490,Pineapple,9,608.13,Saturday,67.57,608.13
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0491,Blueberry,14,363.3,Sunday,25.95,363.3
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0492,Beetroot,17,549.44,Sunday,32.32,549.44
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0493,Peach,20,540.8,Saturday,27.04,540.8
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0494,Orange,2,61.8,Sunday,30.9,61.8
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0495,Spinach,19,815.86,Wednesday,42.94,815.86
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0496,Cabbage,10,629.0,Sunday,62.9,629.0
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0497,Cauliflower,9,435.15,Sunday,48.35,435.15
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0498,Banana,20,1047.6,Friday,52.38,1047.6
+FreshMart Group,2025-02-24,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0499,Pumpkin,20,1124.4,Monday,56.22,1124.4
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0500,Lemon,19,1622.22,Monday,85.38,1622.22
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0501,Pumpkin,19,1523.61,Friday,80.19,1523.61
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0502,Cauliflower,7,243.53,Monday,34.79,243.53
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0503,Peach,7,178.08,Sunday,25.44,178.08
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0504,Plum,10,529.2,Monday,52.92,529.2
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0505,Lemon,14,1224.72,Sunday,87.48,1224.72
+FreshMart Group,2025-01-20,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0506,Bottle Gourd,17,281.18,Monday,16.54,281.18
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0507,Pumpkin,3,68.52,Thursday,22.84,68.52
+FreshMart Group,2025-01-20,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0508,Strawberry,10,479.9,Monday,47.99,479.9
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0509,Pineapple,17,1539.01,Saturday,90.53,1539.01
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0510,Strawberry,2,93.66,Sunday,46.83,93.66
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0511,Strawberry,3,89.91,Friday,29.97,89.91
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0512,Mango,10,106.3,Friday,10.63,106.3
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0513,Mango,11,838.53,Thursday,76.23,838.53
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0514,Pumpkin,9,452.52,Wednesday,50.28,452.52
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0515,Cauliflower,11,494.01,Tuesday,44.91,494.01
+FreshMart Group,2025-01-04,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0516,Spinach,10,218.5,Saturday,21.85,218.5
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0517,Orange,14,1216.88,Wednesday,86.92,1216.88
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0518,Strawberry,17,779.28,Thursday,45.84,779.28
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0519,Carrot,5,414.45,Tuesday,82.89,414.45
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0520,Pineapple,10,820.8,Saturday,82.08,820.8
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0521,Lettuce,5,148.2,Friday,29.64,148.2
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0522,Peach,16,876.16,Friday,54.76,876.16
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0523,Pumpkin,11,456.5,Tuesday,41.5,456.5
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0524,Strawberry,1,94.43,Friday,94.43,94.43
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0525,Beetroot,3,243.81,Wednesday,81.27,243.81
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0526,Orange,10,447.6,Tuesday,44.76,447.6
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0527,Bottle Gourd,11,861.85,Wednesday,78.35,861.85
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0528,Mosambi,1,69.8,Tuesday,69.8,69.8
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0529,Blueberry,8,765.36,Friday,95.67,765.36
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0530,Bottle Gourd,10,727.2,Monday,72.72,727.2
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0531,Blueberry,15,1106.7,Wednesday,73.78,1106.7
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0532,Lettuce,18,1746.72,Saturday,97.04,1746.72
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0533,Plum,15,1107.0,Thursday,73.8,1107.0
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0534,Cauliflower,1,83.7,Wednesday,83.7,83.7
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0535,Spinach,16,208.48,Sunday,13.03,208.48
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0536,Plum,9,97.29,Sunday,10.81,97.29
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0537,Cabbage,12,270.24,Tuesday,22.52,270.24
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0538,Lemon,8,214.88,Wednesday,26.86,214.88
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0539,Lettuce,16,997.76,Saturday,62.36,997.76
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0540,Orange,8,446.64,Tuesday,55.83,446.64
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0541,Banana,10,537.6,Monday,53.76,537.6
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0542,Blueberry,5,146.7,Wednesday,29.34,146.7
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0543,Strawberry,2,74.48,Friday,37.24,74.48
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0544,Pumpkin,10,661.3,Friday,66.13,661.3
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0545,Orange,5,287.5,Sunday,57.5,287.5
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0546,Bottle Gourd,6,307.38,Thursday,51.23,307.38
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0547,Blueberry,20,1698.8,Thursday,84.94,1698.8
+FreshMart Group,2025-02-24,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0548,Potato,4,150.72,Monday,37.68,150.72
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0549,Pumpkin,20,1586.6,Tuesday,79.33,1586.6
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0550,Lettuce,8,425.44,Tuesday,53.18,425.44
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0551,Cabbage,10,613.2,Sunday,61.32,613.2
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0552,Carrot,5,279.05,Tuesday,55.81,279.05
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0553,Carrot,5,343.2,Tuesday,68.64,343.2
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0554,Bottle Gourd,13,399.36,Tuesday,30.72,399.36
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0555,Bottle Gourd,8,159.2,Friday,19.9,159.2
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0556,Mango,20,1433.0,Saturday,71.65,1433.0
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0557,Lettuce,18,731.34,Friday,40.63,731.34
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0558,Lemon,1,19.05,Tuesday,19.05,19.05
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0559,Banana,9,123.75,Wednesday,13.75,123.75
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0560,Cabbage,15,515.1,Wednesday,34.34,515.1
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0561,Peach,4,47.32,Wednesday,11.83,47.32
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0562,Plum,19,936.89,Tuesday,49.31,936.89
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0563,Bottle Gourd,10,383.2,Monday,38.32,383.2
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0564,Cabbage,18,672.66,Thursday,37.37,672.66
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0565,Carrot,1,86.97,Sunday,86.97,86.97
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0566,Mosambi,8,661.2,Saturday,82.65,661.2
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0567,Blueberry,2,141.88,Wednesday,70.94,141.88
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0568,Cabbage,4,71.12,Sunday,17.78,71.12
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0569,Orange,20,634.4,Wednesday,31.72,634.4
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0570,Strawberry,14,751.8,Friday,53.7,751.8
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0571,Spinach,17,885.87,Thursday,52.11,885.87
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0572,Bottle Gourd,15,1491.45,Sunday,99.43,1491.45
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0573,Cauliflower,3,179.16,Thursday,59.72,179.16
+FreshMart Group,2025-01-04,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0574,Cauliflower,1,32.84,Saturday,32.84,32.84
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0575,Cauliflower,1,13.3,Wednesday,13.3,13.3
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0576,Bottle Gourd,4,360.12,Tuesday,90.03,360.12
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0577,Mosambi,17,1133.73,Thursday,66.69,1133.73
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0578,Pumpkin,2,90.28,Thursday,45.14,90.28
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0579,Strawberry,10,973.8,Saturday,97.38,973.8
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0580,Cabbage,19,602.68,Thursday,31.72,602.68
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0581,Cabbage,13,510.12,Thursday,39.24,510.12
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0582,Mosambi,16,794.08,Thursday,49.63,794.08
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0583,Cabbage,17,1485.97,Sunday,87.41,1485.97
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0584,Mosambi,8,448.88,Sunday,56.11,448.88
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0585,Peach,19,1308.53,Thursday,68.87,1308.53
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0586,Beetroot,5,70.85,Saturday,14.17,70.85
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0587,Bottle Gourd,11,1060.4,Sunday,96.4,1060.4
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0588,Blueberry,18,301.5,Tuesday,16.75,301.5
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0589,Strawberry,18,1318.32,Saturday,73.24,1318.32
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0590,Strawberry,2,47.26,Saturday,23.63,47.26
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0591,Orange,14,556.64,Friday,39.76,556.64
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0592,Blueberry,19,539.41,Sunday,28.39,539.41
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0593,Mosambi,8,199.68,Saturday,24.96,199.68
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0594,Cabbage,15,157.35,Wednesday,10.49,157.35
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0595,Mosambi,2,177.08,Tuesday,88.54,177.08
+FreshMart Group,2025-01-17,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0596,Bottle Gourd,8,183.68,Friday,22.96,183.68
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0597,Strawberry,6,385.68,Sunday,64.28,385.68
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0598,Beetroot,3,61.05,Saturday,20.35,61.05
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0599,Pineapple,3,81.75,Monday,27.25,81.75
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0600,Pineapple,2,100.34,Wednesday,50.17,100.34
+FreshMart Group,2025-02-24,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0601,Cauliflower,1,71.15,Monday,71.15,71.15
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0602,Orange,14,547.12,Sunday,39.08,547.12
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0603,Lemon,17,1690.65,Saturday,99.45,1690.65
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0604,Spinach,2,125.58,Sunday,62.79,125.58
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0605,Peach,7,638.4,Friday,91.2,638.4
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0606,Spinach,20,1313.6,Monday,65.68,1313.6
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0607,Pumpkin,13,922.74,Saturday,70.98,922.74
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0608,Bottle Gourd,4,297.12,Wednesday,74.28,297.12
+FreshMart Group,2025-01-21,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0609,Beetroot,5,416.05,Tuesday,83.21,416.05
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0610,Bottle Gourd,4,210.56,Saturday,52.64,210.56
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0611,Blueberry,7,698.6,Monday,99.8,698.6
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0612,Banana,15,1341.3,Monday,89.42,1341.3
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0613,Carrot,19,682.86,Thursday,35.94,682.86
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0614,Spinach,19,660.06,Sunday,34.74,660.06
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0615,Cauliflower,3,49.62,Tuesday,16.54,49.62
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0616,Carrot,9,671.76,Monday,74.64,671.76
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0617,Bottle Gourd,4,213.48,Friday,53.37,213.48
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0618,Strawberry,1,82.65,Wednesday,82.65,82.65
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0619,Potato,2,66.66,Sunday,33.33,66.66
+FreshMart Group,2025-01-20,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0620,Plum,4,152.68,Monday,38.17,152.68
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0621,Cabbage,15,735.3,Wednesday,49.02,735.3
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0622,Pineapple,1,13.38,Saturday,13.38,13.38
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0623,Cabbage,19,1501.38,Thursday,79.02,1501.38
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0624,Bottle Gourd,16,1222.4,Tuesday,76.4,1222.4
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0625,Pineapple,3,134.85,Saturday,44.95,134.85
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0626,Peach,17,804.27,Thursday,47.31,804.27
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0627,Peach,16,1426.08,Saturday,89.13,1426.08
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0628,Blueberry,2,151.78,Sunday,75.89,151.78
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0629,Mosambi,16,990.56,Saturday,61.91,990.56
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0630,Blueberry,5,451.85,Monday,90.37,451.85
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0631,Pumpkin,9,450.36,Wednesday,50.04,450.36
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0632,Beetroot,14,299.88,Monday,21.42,299.88
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0633,Peach,4,237.08,Friday,59.27,237.08
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0634,Pineapple,7,151.76,Saturday,21.68,151.76
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0635,Potato,5,227.65,Thursday,45.53,227.65
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0636,Banana,2,93.28,Saturday,46.64,93.28
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0637,Cauliflower,20,814.4,Wednesday,40.72,814.4
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0638,Cabbage,3,136.11,Sunday,45.37,136.11
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0639,Cauliflower,4,192.92,Friday,48.23,192.92
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0640,Carrot,17,566.44,Sunday,33.32,566.44
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0641,Cauliflower,6,503.4,Sunday,83.9,503.4
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0642,Strawberry,5,349.65,Saturday,69.93,349.65
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0643,Lemon,18,400.5,Friday,22.25,400.5
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0644,Blueberry,10,877.2,Saturday,87.72,877.2
+FreshMart Group,2025-01-21,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0645,Spinach,6,549.72,Tuesday,91.62,549.72
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0646,Pumpkin,1,17.06,Saturday,17.06,17.06
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0647,Carrot,8,623.84,Tuesday,77.98,623.84
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0648,Spinach,5,464.6,Sunday,92.92,464.6
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0649,Blueberry,15,175.8,Friday,11.72,175.8
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0650,Lemon,19,1778.21,Sunday,93.59,1778.21
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0651,Blueberry,3,79.59,Friday,26.53,79.59
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0652,Beetroot,20,933.2,Sunday,46.66,933.2
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0653,Lettuce,4,230.28,Saturday,57.57,230.28
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0654,Blueberry,15,1003.35,Saturday,66.89,1003.35
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0655,Pumpkin,10,937.5,Wednesday,93.75,937.5
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0656,Banana,3,299.37,Friday,99.79,299.37
+FreshMart Group,2025-01-20,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0657,Cabbage,7,606.97,Monday,86.71,606.97
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0658,Bottle Gourd,6,346.32,Tuesday,57.72,346.32
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0659,Cabbage,18,1405.62,Monday,78.09,1405.62
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0660,Blueberry,15,374.1,Wednesday,24.94,374.1
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0661,Blueberry,2,116.92,Saturday,58.46,116.92
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0662,Strawberry,6,586.32,Thursday,97.72,586.32
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0663,Lettuce,15,262.95,Thursday,17.53,262.95
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0664,Mosambi,15,1227.9,Wednesday,81.86,1227.9
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0665,Pumpkin,14,699.44,Thursday,49.96,699.44
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0666,Lettuce,9,814.59,Monday,90.51,814.59
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0667,Peach,1,61.96,Friday,61.96,61.96
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0668,Pumpkin,20,1814.2,Wednesday,90.71,1814.2
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0669,Strawberry,12,712.92,Thursday,59.41,712.92
+FreshMart Group,2025-02-16,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0670,Strawberry,15,160.8,Sunday,10.72,160.8
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0671,Potato,15,377.1,Friday,25.14,377.1
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0672,Cauliflower,1,24.63,Wednesday,24.63,24.63
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0673,Blueberry,3,237.72,Monday,79.24,237.72
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0674,Spinach,20,951.8,Wednesday,47.59,951.8
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0675,Potato,8,322.16,Tuesday,40.27,322.16
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0676,Pineapple,14,944.58,Saturday,67.47,944.58
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0677,Mango,7,672.28,Thursday,96.04,672.28
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0678,Strawberry,14,1223.04,Sunday,87.36,1223.04
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0679,Banana,13,796.25,Monday,61.25,796.25
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0680,Cabbage,20,1157.0,Thursday,57.85,1157.0
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0681,Cauliflower,8,319.84,Saturday,39.98,319.84
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0682,Cabbage,9,507.24,Wednesday,56.36,507.24
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0683,Strawberry,7,565.81,Monday,80.83,565.81
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0684,Mango,10,934.7,Wednesday,93.47,934.7
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0685,Carrot,13,920.14,Wednesday,70.78,920.14
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0686,Peach,14,660.52,Thursday,47.18,660.52
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0687,Blueberry,10,618.2,Saturday,61.82,618.2
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0688,Strawberry,5,99.5,Thursday,19.9,99.5
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0689,Lemon,17,459.85,Thursday,27.05,459.85
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0690,Strawberry,14,474.88,Wednesday,33.92,474.88
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0691,Banana,2,56.98,Thursday,28.49,56.98
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0692,Strawberry,11,534.38,Saturday,48.58,534.38
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0693,Pineapple,13,624.65,Wednesday,48.05,624.65
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0694,Blueberry,19,1390.99,Tuesday,73.21,1390.99
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0695,Carrot,8,96.88,Thursday,12.11,96.88
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0696,Orange,1,47.74,Wednesday,47.74,47.74
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0697,Plum,4,293.44,Sunday,73.36,293.44
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0698,Blueberry,19,1493.21,Tuesday,78.59,1493.21
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0699,Blueberry,10,941.6,Wednesday,94.16,941.6
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0700,Bottle Gourd,13,865.8,Sunday,66.6,865.8
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0701,Lemon,18,579.6,Saturday,32.2,579.6
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0702,Strawberry,19,604.77,Thursday,31.83,604.77
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0703,Cabbage,11,500.61,Thursday,45.51,500.61
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0704,Lemon,8,164.32,Thursday,20.54,164.32
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0705,Cabbage,1,11.74,Wednesday,11.74,11.74
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0706,Pineapple,12,762.0,Friday,63.5,762.0
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0707,Lemon,14,316.96,Sunday,22.64,316.96
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0708,Cauliflower,12,524.88,Friday,43.74,524.88
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0709,Lemon,13,1034.67,Thursday,79.59,1034.67
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0710,Mosambi,3,39.99,Sunday,13.33,39.99
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0711,Pumpkin,8,543.28,Wednesday,67.91,543.28
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0712,Pumpkin,7,300.93,Sunday,42.99,300.93
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0713,Lettuce,7,227.15,Saturday,32.45,227.15
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0714,Lettuce,1,41.97,Saturday,41.97,41.97
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0715,Cauliflower,16,290.56,Sunday,18.16,290.56
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0716,Mango,11,642.95,Thursday,58.45,642.95
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0717,Orange,5,392.4,Monday,78.48,392.4
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0718,Cauliflower,12,724.92,Saturday,60.41,724.92
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0719,Lettuce,15,164.85,Tuesday,10.99,164.85
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0720,Orange,2,34.52,Thursday,17.26,34.52
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0721,Strawberry,10,627.6,Thursday,62.76,627.6
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0722,Spinach,12,1181.52,Saturday,98.46,1181.52
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0723,Carrot,15,785.85,Thursday,52.39,785.85
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0724,Pumpkin,9,94.41,Sunday,10.49,94.41
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0725,Blueberry,2,156.76,Wednesday,78.38,156.76
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0726,Beetroot,8,261.68,Thursday,32.71,261.68
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0727,Banana,3,276.27,Thursday,92.09,276.27
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0728,Blueberry,12,336.12,Thursday,28.01,336.12
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0729,Banana,14,1120.98,Saturday,80.07,1120.98
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0730,Blueberry,15,1319.85,Sunday,87.99,1319.85
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0731,Cabbage,10,290.0,Thursday,29.0,290.0
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0732,Pineapple,10,875.8,Wednesday,87.58,875.8
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0733,Lemon,19,1820.01,Sunday,95.79,1820.01
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0734,Cabbage,4,46.36,Thursday,11.59,46.36
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0735,Plum,11,514.58,Saturday,46.78,514.58
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0736,Lemon,2,142.46,Saturday,71.23,142.46
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0737,Lettuce,11,495.66,Sunday,45.06,495.66
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0738,Lemon,2,106.04,Friday,53.02,106.04
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0739,Blueberry,9,746.55,Thursday,82.95,746.55
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0740,Peach,1,77.34,Tuesday,77.34,77.34
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0741,Pumpkin,7,448.21,Sunday,64.03,448.21
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0742,Lettuce,19,1870.17,Saturday,98.43,1870.17
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0743,Strawberry,15,958.05,Tuesday,63.87,958.05
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0744,Blueberry,7,310.03,Monday,44.29,310.03
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0745,Beetroot,20,950.0,Saturday,47.5,950.0
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0746,Beetroot,15,787.2,Wednesday,52.48,787.2
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0747,Spinach,6,164.64,Tuesday,27.44,164.64
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0748,Orange,15,681.15,Tuesday,45.41,681.15
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0749,Cauliflower,8,692.56,Sunday,86.57,692.56
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0750,Beetroot,5,180.3,Sunday,36.06,180.3
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0751,Plum,8,130.08,Wednesday,16.26,130.08
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0752,Banana,16,1380.16,Wednesday,86.26,1380.16
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0753,Spinach,11,384.89,Thursday,34.99,384.89
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0754,Pineapple,19,1835.21,Sunday,96.59,1835.21
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0755,Potato,12,1036.68,Saturday,86.39,1036.68
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0756,Potato,12,1015.32,Saturday,84.61,1015.32
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0757,Pumpkin,17,688.84,Monday,40.52,688.84
+FreshMart Group,2025-01-22,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0758,Cauliflower,12,1170.96,Wednesday,97.58,1170.96
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0759,Spinach,10,777.3,Tuesday,77.73,777.3
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0760,Potato,13,684.32,Monday,52.64,684.32
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0761,Strawberry,3,221.19,Sunday,73.73,221.19
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0762,Pumpkin,18,1069.02,Thursday,59.39,1069.02
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0763,Mango,15,272.7,Friday,18.18,272.7
+FreshMart Group,2025-02-24,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0764,Lemon,8,523.52,Monday,65.44,523.52
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0765,Plum,19,473.67,Tuesday,24.93,473.67
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0766,Peach,8,273.2,Friday,34.15,273.2
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0767,Plum,6,148.08,Friday,24.68,148.08
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0768,Bottle Gourd,4,370.92,Friday,92.73,370.92
+FreshMart Group,2025-01-25,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0769,Pineapple,19,1581.75,Saturday,83.25,1581.75
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0770,Cabbage,18,1409.58,Wednesday,78.31,1409.58
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0771,Blueberry,18,1687.68,Wednesday,93.76,1687.68
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0772,Mango,6,456.9,Friday,76.15,456.9
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0773,Plum,2,104.22,Thursday,52.11,104.22
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0774,Spinach,7,76.93,Tuesday,10.99,76.93
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0775,Bottle Gourd,3,47.52,Friday,15.84,47.52
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0776,Blueberry,4,300.56,Saturday,75.14,300.56
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0777,Strawberry,11,184.14,Saturday,16.74,184.14
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0778,Beetroot,5,440.15,Wednesday,88.03,440.15
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0779,Pineapple,16,1358.08,Sunday,84.88,1358.08
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0780,Banana,10,501.3,Tuesday,50.13,501.3
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0781,Banana,5,121.35,Saturday,24.27,121.35
+FreshMart Group,2025-01-02,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0782,Cauliflower,14,719.88,Thursday,51.42,719.88
+FreshMart Group,2025-01-21,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0783,Plum,3,206.04,Tuesday,68.68,206.04
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0784,Mango,1,16.02,Monday,16.02,16.02
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0785,Strawberry,11,429.77,Saturday,39.07,429.77
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0786,Plum,14,1142.12,Saturday,81.58,1142.12
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0787,Blueberry,3,216.39,Sunday,72.13,216.39
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0788,Cabbage,9,272.25,Wednesday,30.25,272.25
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0789,Mango,9,547.2,Tuesday,60.8,547.2
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0790,Strawberry,5,137.85,Sunday,27.57,137.85
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0791,Potato,17,170.85,Tuesday,10.05,170.85
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0792,Bottle Gourd,13,402.48,Thursday,30.96,402.48
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0793,Plum,13,131.43,Wednesday,10.11,131.43
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0794,Pumpkin,19,1356.98,Wednesday,71.42,1356.98
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0795,Pumpkin,7,684.6,Tuesday,97.8,684.6
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0796,Bottle Gourd,7,360.99,Wednesday,51.57,360.99
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0797,Cabbage,10,729.3,Sunday,72.93,729.3
+FreshMart Group,2025-01-04,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0798,Potato,17,882.64,Saturday,51.92,882.64
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0799,Banana,15,1240.65,Friday,82.71,1240.65
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0800,Lemon,2,110.36,Monday,55.18,110.36
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0801,Plum,9,817.2,Wednesday,90.8,817.2
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0802,Blueberry,7,222.6,Monday,31.8,222.6
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0803,Beetroot,14,1028.02,Tuesday,73.43,1028.02
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0804,Carrot,8,458.08,Wednesday,57.26,458.08
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0805,Mosambi,16,790.4,Sunday,49.4,790.4
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0806,Bottle Gourd,11,869.0,Sunday,79.0,869.0
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0807,Peach,11,251.02,Thursday,22.82,251.02
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0808,Banana,17,273.53,Saturday,16.09,273.53
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0809,Beetroot,4,212.92,Tuesday,53.23,212.92
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0810,Strawberry,7,138.95,Thursday,19.85,138.95
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0811,Mango,1,53.39,Thursday,53.39,53.39
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0812,Lettuce,18,243.54,Monday,13.53,243.54
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0813,Cabbage,8,154.56,Thursday,19.32,154.56
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0814,Banana,7,572.53,Friday,81.79,572.53
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0815,Spinach,6,106.56,Wednesday,17.76,106.56
+FreshMart Group,2025-01-17,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0816,Blueberry,11,863.61,Friday,78.51,863.61
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0817,Lettuce,17,567.8,Saturday,33.4,567.8
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0818,Blueberry,10,831.7,Monday,83.17,831.7
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0819,Strawberry,20,204.2,Saturday,10.21,204.2
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0820,Blueberry,7,584.78,Monday,83.54,584.78
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0821,Bottle Gourd,14,921.62,Thursday,65.83,921.62
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0822,Pumpkin,6,141.48,Saturday,23.58,141.48
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0823,Peach,9,874.62,Thursday,97.18,874.62
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0824,Cauliflower,3,291.24,Saturday,97.08,291.24
+FreshMart Group,2025-02-16,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0825,Blueberry,10,349.7,Sunday,34.97,349.7
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0826,Spinach,6,530.82,Monday,88.47,530.82
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0827,Peach,1,75.93,Saturday,75.93,75.93
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0828,Peach,11,707.63,Wednesday,64.33,707.63
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0829,Cauliflower,16,384.32,Tuesday,24.02,384.32
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0830,Banana,16,1171.68,Thursday,73.23,1171.68
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0831,Bottle Gourd,8,516.0,Tuesday,64.5,516.0
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0832,Carrot,20,1539.6,Sunday,76.98,1539.6
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0833,Spinach,20,997.0,Tuesday,49.85,997.0
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0834,Potato,4,141.2,Sunday,35.3,141.2
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0835,Spinach,11,983.84,Saturday,89.44,983.84
+FreshMart Group,2025-02-11,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0836,Potato,20,429.4,Tuesday,21.47,429.4
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0837,Cauliflower,16,242.56,Saturday,15.16,242.56
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0838,Peach,13,891.54,Wednesday,68.58,891.54
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0839,Lettuce,11,180.95,Saturday,16.45,180.95
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0840,Plum,19,282.53,Tuesday,14.87,282.53
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0841,Pineapple,18,491.58,Friday,27.31,491.58
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0842,Cabbage,12,585.12,Friday,48.76,585.12
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0843,Beetroot,19,979.45,Tuesday,51.55,979.45
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0844,Orange,20,568.8,Tuesday,28.44,568.8
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0845,Lemon,6,247.02,Monday,41.17,247.02
+FreshMart Group,2025-01-19,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0846,Spinach,3,192.21,Sunday,64.07,192.21
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0847,Cauliflower,14,1353.94,Wednesday,96.71,1353.94
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0848,Cabbage,16,1104.96,Friday,69.06,1104.96
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0849,Cauliflower,18,1649.16,Saturday,91.62,1649.16
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0850,Cabbage,18,1565.46,Friday,86.97,1565.46
+FreshMart Group,2025-02-17,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0851,Cabbage,20,1694.4,Monday,84.72,1694.4
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0852,Mosambi,2,181.38,Wednesday,90.69,181.38
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0853,Mosambi,14,1097.32,Tuesday,78.38,1097.32
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0854,Pumpkin,13,748.02,Tuesday,57.54,748.02
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0855,Cauliflower,8,588.88,Thursday,73.61,588.88
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0856,Lettuce,10,710.7,Friday,71.07,710.7
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0857,Lettuce,13,1272.18,Friday,97.86,1272.18
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0858,Strawberry,20,561.4,Saturday,28.07,561.4
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0859,Mango,6,412.02,Wednesday,68.67,412.02
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0860,Mango,3,280.11,Friday,93.37,280.11
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0861,Lettuce,10,170.0,Sunday,17.0,170.0
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0862,Strawberry,18,1373.76,Saturday,76.32,1373.76
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0863,Banana,1,48.17,Monday,48.17,48.17
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0864,Lettuce,8,699.04,Friday,87.38,699.04
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0865,Bottle Gourd,14,451.36,Wednesday,32.24,451.36
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0866,Strawberry,19,618.64,Tuesday,32.56,618.64
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0867,Pineapple,20,1293.4,Friday,64.67,1293.4
+FreshMart Group,2025-01-04,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0868,Pineapple,3,80.73,Saturday,26.91,80.73
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0869,Peach,14,421.68,Monday,30.12,421.68
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0870,Beetroot,6,373.32,Tuesday,62.22,373.32
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0871,Blueberry,14,655.62,Wednesday,46.83,655.62
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0872,Carrot,18,673.92,Wednesday,37.44,673.92
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0873,Mango,14,156.1,Tuesday,11.15,156.1
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0874,Pumpkin,15,1053.0,Friday,70.2,1053.0
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0875,Blueberry,5,496.0,Friday,99.2,496.0
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0876,Lemon,6,513.6,Wednesday,85.6,513.6
+FreshMart Group,2025-01-04,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0877,Orange,2,97.62,Saturday,48.81,97.62
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0878,Peach,17,875.16,Saturday,51.48,875.16
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0879,Cabbage,20,1052.4,Thursday,52.62,1052.4
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0880,Mango,17,607.58,Friday,35.74,607.58
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0881,Strawberry,6,75.54,Thursday,12.59,75.54
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0882,Blueberry,14,662.48,Saturday,47.32,662.48
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0883,Blueberry,8,717.28,Saturday,89.66,717.28
+FreshMart Group,2025-02-23,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0884,Mango,15,1076.1,Sunday,71.74,1076.1
+FreshMart Group,2025-02-05,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0885,Mosambi,2,102.74,Wednesday,51.37,102.74
+FreshMart Group,2025-01-21,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0886,Cauliflower,3,104.46,Tuesday,34.82,104.46
+FreshMart Group,2025-01-20,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0887,Beetroot,10,552.0,Monday,55.2,552.0
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0888,Mosambi,2,130.92,Saturday,65.46,130.92
+FreshMart Group,2025-01-21,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0889,Pumpkin,17,1169.6,Tuesday,68.8,1169.6
+FreshMart Group,2025-02-16,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0890,Pineapple,20,988.8,Sunday,49.44,988.8
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0891,Cabbage,11,415.47,Saturday,37.77,415.47
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0892,Bottle Gourd,18,1199.34,Saturday,66.63,1199.34
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0893,Bottle Gourd,3,221.07,Thursday,73.69,221.07
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0894,Strawberry,2,192.86,Tuesday,96.43,192.86
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0895,Pumpkin,12,125.28,Thursday,10.44,125.28
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0896,Lemon,9,396.27,Friday,44.03,396.27
+FreshMart Group,2025-01-27,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0897,Cabbage,5,395.35,Monday,79.07,395.35
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0898,Peach,19,733.21,Wednesday,38.59,733.21
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0899,Cabbage,15,1363.8,Tuesday,90.92,1363.8
+FreshMart Group,2025-02-26,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0900,Pineapple,2,140.44,Wednesday,70.22,140.44
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0901,Bottle Gourd,2,31.82,Wednesday,15.91,31.82
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0902,Cabbage,8,263.2,Thursday,32.9,263.2
+FreshMart Group,2025-02-09,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0903,Lemon,5,460.4,Sunday,92.08,460.4
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0904,Strawberry,5,495.5,Saturday,99.1,495.5
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0905,Pumpkin,3,76.38,Monday,25.46,76.38
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0906,Cabbage,17,799.34,Thursday,47.02,799.34
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0907,Spinach,19,586.34,Tuesday,30.86,586.34
+FreshMart Group,2025-02-25,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0908,Pumpkin,14,1127.7,Tuesday,80.55,1127.7
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0909,Potato,20,1164.6,Monday,58.23,1164.6
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0910,Mango,13,1004.51,Monday,77.27,1004.51
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0911,Lettuce,3,56.76,Tuesday,18.92,56.76
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0912,Mosambi,1,88.84,Friday,88.84,88.84
+FreshMart Group,2025-02-13,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0913,Strawberry,2,194.68,Thursday,97.34,194.68
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0914,Blueberry,7,295.33,Wednesday,42.19,295.33
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0915,Mango,19,1547.36,Wednesday,81.44,1547.36
+FreshMart Group,2025-02-20,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0916,Pumpkin,8,529.52,Thursday,66.19,529.52
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0917,Banana,11,164.23,Sunday,14.93,164.23
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0918,Carrot,2,193.06,Friday,96.53,193.06
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0919,Strawberry,8,286.88,Tuesday,35.86,286.88
+FreshMart Group,2025-01-15,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0920,Pumpkin,3,289.8,Wednesday,96.6,289.8
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0921,Blueberry,13,1102.79,Thursday,84.83,1102.79
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0922,Lettuce,18,285.3,Tuesday,15.85,285.3
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0923,Mosambi,15,1001.85,Friday,66.79,1001.85
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0924,Cauliflower,9,144.36,Friday,16.04,144.36
+FreshMart Group,2025-02-12,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0925,Potato,20,1336.2,Wednesday,66.81,1336.2
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0926,Cabbage,2,98.24,Wednesday,49.12,98.24
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0927,Cabbage,16,636.8,Sunday,39.8,636.8
+FreshMart Group,2025-02-27,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0928,Lettuce,9,743.49,Thursday,82.61,743.49
+FreshMart Group,2025-01-23,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0929,Pumpkin,1,82.84,Thursday,82.84,82.84
+FreshMart Group,2025-02-14,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0930,Beetroot,14,535.36,Friday,38.24,535.36
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0931,Peach,9,694.71,Friday,77.19,694.71
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0932,Lettuce,8,262.48,Tuesday,32.81,262.48
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0933,Lettuce,20,1131.6,Tuesday,56.58,1131.6
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0934,Pumpkin,19,779.38,Thursday,41.02,779.38
+FreshMart Group,2025-02-18,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0935,Banana,12,890.76,Tuesday,74.23,890.76
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0936,Pineapple,15,1120.2,Friday,74.68,1120.2
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0937,Peach,8,305.6,Saturday,38.2,305.6
+FreshMart Group,2025-01-01,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0938,Cabbage,13,331.63,Wednesday,25.51,331.63
+FreshMart Group,2025-01-17,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0939,Cauliflower,6,290.88,Friday,48.48,290.88
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0940,Plum,17,1279.42,Tuesday,75.26,1279.42
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0941,Plum,17,557.26,Sunday,32.78,557.26
+FreshMart Group,2025-02-24,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0942,Beetroot,10,454.3,Monday,45.43,454.3
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0943,Cabbage,6,159.84,Saturday,26.64,159.84
+FreshMart Group,2025-02-21,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0944,Blueberry,13,749.19,Friday,57.63,749.19
+FreshMart Group,2025-02-02,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0945,Peach,4,312.08,Sunday,78.02,312.08
+FreshMart Group,2025-01-07,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0946,Carrot,8,260.96,Tuesday,32.62,260.96
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0947,Mosambi,7,92.33,Thursday,13.19,92.33
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0948,Spinach,1,79.87,Friday,79.87,79.87
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0949,Carrot,10,552.2,Saturday,55.22,552.2
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0950,Pumpkin,20,992.8,Monday,49.64,992.8
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0951,Plum,18,245.88,Thursday,13.66,245.88
+FreshMart Group,2025-01-09,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0952,Mosambi,3,79.68,Thursday,26.56,79.68
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0953,Banana,16,1125.28,Saturday,70.33,1125.28
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0954,Cabbage,8,220.4,Friday,27.55,220.4
+FreshMart Group,2025-01-03,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0955,Spinach,14,719.18,Friday,51.37,719.18
+FreshMart Group,2025-01-05,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0956,Beetroot,16,1220.96,Sunday,76.31,1220.96
+FreshMart Group,2025-01-12,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0957,Lemon,16,199.84,Sunday,12.49,199.84
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0958,Mosambi,2,24.32,Friday,12.16,24.32
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0959,Blueberry,5,337.35,Wednesday,67.47,337.35
+FreshMart Group,2025-01-28,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0960,Strawberry,20,339.6,Tuesday,16.98,339.6
+FreshMart Group,2025-01-24,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0961,Potato,11,821.7,Friday,74.7,821.7
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0962,Potato,11,836.77,Saturday,76.07,836.77
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0963,Lemon,16,1560.48,Saturday,97.53,1560.48
+FreshMart Group,2025-02-08,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0964,Potato,19,856.9,Saturday,45.1,856.9
+FreshMart Group,2025-01-14,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0965,Spinach,8,469.52,Tuesday,58.69,469.52
+FreshMart Group,2025-01-17,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0966,Plum,5,298.3,Friday,59.66,298.3
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0967,Bottle Gourd,12,512.04,Friday,42.67,512.04
+FreshMart Group,2025-01-21,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0968,Plum,8,591.2,Tuesday,73.9,591.2
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0969,Pumpkin,13,746.2,Friday,57.4,746.2
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0970,Mosambi,6,527.58,Thursday,87.93,527.58
+FreshMart Group,2025-02-10,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0971,Blueberry,16,1501.12,Monday,93.82,1501.12
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0972,Cauliflower,9,679.86,Monday,75.54,679.86
+FreshMart Group,2025-01-11,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0973,Spinach,14,1109.92,Saturday,79.28,1109.92
+FreshMart Group,2025-01-10,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0974,Mosambi,18,1798.2,Friday,99.9,1798.2
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0975,Peach,20,1966.4,Sunday,98.32,1966.4
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0976,Bottle Gourd,10,638.3,Thursday,63.83,638.3
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0977,Cabbage,7,524.58,Thursday,74.94,524.58
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0978,Strawberry,13,1214.85,Saturday,93.45,1214.85
+FreshMart Group,2025-03-02,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0979,Spinach,4,109.96,Sunday,27.49,109.96
+FreshMart Group,2025-02-01,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0980,Orange,19,202.54,Saturday,10.66,202.54
+FreshMart Group,2025-01-08,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0981,Mango,10,280.3,Wednesday,28.03,280.3
+FreshMart Group,2025-03-01,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0982,Strawberry,7,395.78,Saturday,56.54,395.78
+FreshMart Group,2025-01-06,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0983,Blueberry,1,87.34,Monday,87.34,87.34
+FreshMart Group,2025-02-28,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0984,Spinach,14,942.34,Friday,67.31,942.34
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0985,Cauliflower,5,432.2,Saturday,86.44,432.2
+FreshMart Group,2025-01-31,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0986,Mango,14,1074.92,Friday,76.78,1074.92
+FreshMart Group,2025-01-16,Super Market,Fruits & Vegetables,Vegetables,Root,ITEM0987,Beetroot,15,331.35,Thursday,22.09,331.35
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0988,Plum,4,265.24,Sunday,66.31,265.24
+FreshMart Group,2025-02-15,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0989,Blueberry,13,240.63,Saturday,18.51,240.63
+FreshMart Group,2025-02-06,Super Market,Fruits & Vegetables,Fruits,Tropical,ITEM0990,Mango,13,731.38,Thursday,56.26,731.38
+FreshMart Group,2025-02-07,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0991,Blueberry,2,118.82,Friday,59.41,118.82
+FreshMart Group,2025-01-13,Super Market,Fruits & Vegetables,Fruits,Citrus,ITEM0992,Lemon,15,221.85,Monday,14.79,221.85
+FreshMart Group,2025-02-22,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0993,Cauliflower,4,315.32,Saturday,78.83,315.32
+FreshMart Group,2025-01-18,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0994,Strawberry,16,259.2,Saturday,16.2,259.2
+FreshMart Group,2025-01-26,Super Market,Fruits & Vegetables,Vegetables,Cruciferous,ITEM0995,Cabbage,6,462.18,Sunday,77.03,462.18
+FreshMart Group,2025-01-30,Super Market,Fruits & Vegetables,Vegetables,Gourd,ITEM0996,Pumpkin,1,15.89,Thursday,15.89,15.89
+FreshMart Group,2025-02-19,Super Market,Fruits & Vegetables,Vegetables,Leafy,ITEM0997,Spinach,13,433.03,Wednesday,33.31,433.03
+FreshMart Group,2025-02-03,Super Market,Fruits & Vegetables,Fruits,Stone Fruit,ITEM0998,Peach,10,803.5,Monday,80.35,803.5
+FreshMart Group,2025-02-04,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM0999,Strawberry,14,825.86,Tuesday,58.99,825.86
+FreshMart Group,2025-01-29,Super Market,Fruits & Vegetables,Fruits,Berries,ITEM1000,Strawberry,15,1190.1,Wednesday,79.34,1190.1
