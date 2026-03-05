@@ -9,7 +9,7 @@ from datetime import timedelta
 # --- 1. App Configuration ---
 st.set_page_config(page_title="Supermarket Sales Predictor", layout="wide")
 st.title("🍎 Vegetable & Fruit Sales Forecasting")
-st.markdown("Predicting next-day sales using **Facebook Prophet** with External Data Integration.")
+st.markdown("Predicting next-day sales using **Prophet** with External Data Integration.")
 
 # --- 2. Data Loading ---
 @st.cache_data
@@ -74,4 +74,5 @@ if uploaded_file:
     st.pyplot(fig_components)
     
 else:
+
     st.info("Please upload the supermarket CSV file to start forecasting.")
